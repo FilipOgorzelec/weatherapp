@@ -1,2 +1,0 @@
-# weatherapp
-Created with CodeSandbox
